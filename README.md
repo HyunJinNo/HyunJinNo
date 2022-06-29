@@ -1,4 +1,4 @@
-- Hi, I’m Hyun-Jin No.
+- Hi, I’m HyunJin No.
 - I'm from Republic of Korea.
 - I’m interested in programming Android Apps.
 
