@@ -4,7 +4,7 @@
 
 ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&layout=compact&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8)](https://github.com/HyunJinNo/github-readme-stats)
 
 <!---
 HyunJinNo/HyunJinNo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
