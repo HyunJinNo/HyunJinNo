@@ -24,15 +24,9 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  <br>
+  ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
-  ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&theme=tokyonight)
-
-  <br>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&layout=compact)](https://github.com/HyunJinNo/github-readme-stats)
-
-  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/HyunJinNo/github-readme-stats)
 
   [![HyunJinNo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunJinNo&theme=react)](https://github.com/HyunJinNo/github-readme-activity-graph)
 
