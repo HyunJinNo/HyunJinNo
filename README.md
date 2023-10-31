@@ -26,9 +26,9 @@
 
   ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/HyunJinNo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8&theme=shadow_blue)](https://github.com/HyunJinNo/github-readme-stats)
 
-  [![HyunJinNo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunJinNo&theme=react)](https://github.com/HyunJinNo/github-readme-activity-graph)
+  [![HyunJinNo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunJinNo&theme=minimal&bg_color=f0fffd)](https://github.com/HyunJinNo/github-readme-activity-graph)
 
 </div>
 <!---
