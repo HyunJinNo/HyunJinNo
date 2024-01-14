@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF"/>
+  <br>
+
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
 
   <br>
   <br>
