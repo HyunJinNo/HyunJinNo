@@ -6,7 +6,7 @@
 
   <br>
   
-  <h1>📚 Skills </h1></div>
+  <h3>📚 Skills </h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>
@@ -32,17 +32,25 @@
   <br>
   <br>
 
-  <h3>📚 GitHub Stats </h3>
+  <h3>👤 GitHub Stats </h3>
   
   ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
-  <h3>📚 Backjoon Solved Rank </h3>
+  <br>
+
+  <h3>📊 Backjoon Solved Rank </h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjinno)](https://solved.ac/hyunjinno/)
 
-  <h3>📚 Most Used Languages </h3>
+  <br>
+
+  <h3>💻 Most Used Languages </h3>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8&theme=shadow_blue)](https://github.com/HyunJinNo/github-readme-stats)
+
+  <br>
+
+  <h3>📈 GitHub Contribution Graph </h3>
 
   [![HyunJinNo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunJinNo&theme=minimal&bg_color=f0fffd)](https://github.com/HyunJinNo/github-readme-activity-graph)
 
