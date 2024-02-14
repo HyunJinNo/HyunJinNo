@@ -1,6 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=220&text=HyunJinNo's%20GitHub&fontSize=50&fontColor=FFFFFF)
 
-<div align=center><h1>📚 Stacks </h1></div>
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  <br>
+  
+  <h1>📚 Skills </h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>
@@ -26,9 +32,15 @@
   <br>
   <br>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <h3>📚 GitHub Stats </h3>
+  
   ![HyunJinNo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJinNo&show_icons=true&bg_color=90,38C3E2,DFE9C7,ffffff&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+
+  <h3>📚 Backjoon Solved Rank </h3>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjinno)](https://solved.ac/hyunjinno/)
+
+  <h3>📚 Most Used Languages </h3>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=8&theme=shadow_blue)](https://github.com/HyunJinNo/github-readme-stats)
 
