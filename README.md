@@ -41,6 +41,7 @@
   <h3>📊 Backjoon Solved Rank </h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjinno)](https://solved.ac/hyunjinno/)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunjinno&theme=warm)
 
   <br>
 
