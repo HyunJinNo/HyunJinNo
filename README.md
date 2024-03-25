@@ -1,13 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=220&text=HyunJinNo's%20GitHub&fontSize=50&fontColor=FFFFFF)
-
-<div align=center>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=220&text=HyunJinNo's%20GitHub&fontSize=50&fontColor=FFFFFF)  
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <br>
   
-  <h3>📚 Skills </h3></div>
-<div align=center>
+  <h3>📚 Skills</h3>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -27,7 +26,13 @@
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=C++&logoColor=FFFFFF"/>
+  <br>
 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF"/>  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <br>
   <br>
   <br>
@@ -51,11 +56,11 @@
 
   <br>
 
-  <h3>📈 GitHub Contribution Graph </h3>
-
+  <h3>📈 GitHub Contribution Graph </h3> 
+  
   [![HyunJinNo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunJinNo&theme=minimal&bg_color=f0fffd)](https://github.com/HyunJinNo/github-readme-activity-graph)
-
 </div>
+
 <!---
 HyunJinNo/HyunJinNo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
