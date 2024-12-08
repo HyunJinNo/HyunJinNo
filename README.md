@@ -1,14 +1,25 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=220&text=HyunJinNo's%20GitHub&fontSize=50&fontColor=FFFFFF)  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=220&text=HyunJinNo's%20GitHub&fontSize=50&fontColor=FFFFFF)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://hyunjinno.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Blog-CC0000?logo=Jekyll&logoColor=white"/></a> <a href="https://hyunjinno.notion.site/3d1e9d32612740b8a5b7be16f5156d94" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a>
 
   <br />
-  
+
+  <h3>📅 Experiences</h3>
+
+| 기간                      | 활동 내역                        | 정보                  |
+| ------------------------- | -------------------------------- | --------------------- |
+| 2018. 03 ~ 2024. 08.      | 중앙대학교 소프트웨어학부        |                       |
+| 2024. 06. ~ 2024. 12. 06. | 네이버 부스트캠프 웹・모바일 9기 | 웹 풀스택(JavaScript) |
+
+  <br/>
+  <br/>
+
   <h3>📚 Skills</h3>
-  
+
   <h4><b><i>Front-end</i></b></h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -20,32 +31,43 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-%23593d88.svg?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-FF4154?logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=Framer&logoColor=white"/>
+
   <h4><b><i>Back-end</i></b></h4>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FF4716?logo=typeorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=FFFFFF"/>
+
   <h4><b><i>Database</i></b></h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=Firebase&logoColor=FFFFFF"/>
+
   <h4><b><i>Mobile</i></b></h4>
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=FFFFFF"/>
+
   <h4><b><i>Deployment</i></b></h4>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry Pi&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white"/>    
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%23009639.svg?logo=docker&logoColor=white&color=2496ED" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%23009639.svg?logo=GitHub%20Actions&logoColor=white&color=2088FF" />
-  <h4><b><i>Version Control</i></b></h4>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" />
+
+  <h4><b><i>Collaboration Tools</i></b></h4>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/>
 
   <br>
   <br>
@@ -57,15 +79,13 @@
   <br />
   <h3>📊 Backjoon Solved Rank </h3>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjinno)](https://solved.ac/hyunjinno/)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunjinno&theme=warm)
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjinno)](https://solved.ac/hyunjinno/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyunjinno&theme=warm)
 
   <br />
   <h3>💻 Most Used Languages </h3>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=10&theme=shadow_blue)](https://github.com/HyunJinNo/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJinNo&langs_count=10&theme=shadow_blue)](https://github.com/HyunJinNo/github-readme-stats)
 
   <br />
   <h3>📈 GitHub Contribution Graph </h3> 
