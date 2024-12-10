@@ -12,7 +12,7 @@
 
 | 기간                      | 활동 내역                        | 정보                  |
 | ------------------------- | -------------------------------- | --------------------- |
-| 2018. 03 ~ 2024. 08.      | 중앙대학교 소프트웨어학부        |                       |
+| 2018. 03 ~ 2024. 08.      | 중앙대학교 소프트웨어학부        | 졸업                    |
 | 2024. 06. ~ 2024. 12. 06. | 네이버 부스트캠프 웹・모바일 9기 | 웹 풀스택(JavaScript) |
 
   <br/>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" />
@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=FFFFFF"/>
 
   <h4><b><i>Deployment</i></b></h4>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry Pi&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white"/>    
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-5865F2?logo=VSCode&logoColor=white"/>
 
   <br>
   <br>
