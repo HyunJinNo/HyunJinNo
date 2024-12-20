@@ -12,7 +12,7 @@
 
 | 기간                      | 활동 내역                        | 정보                  |
 | ------------------------- | -------------------------------- | --------------------- |
-| 2018. 03 ~ 2024. 08.      | 중앙대학교 소프트웨어학부        | 졸업                    |
+| 2018. 03 ~ 2024. 08.      | 중앙대학교 소프트웨어학부        | 졸업                  |
 | 2024. 06. ~ 2024. 12. 06. | 네이버 부스트캠프 웹・모바일 9기 | 웹 풀스택(JavaScript) |
 
   <br/>
@@ -50,8 +50,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
 
   <h4><b><i>Deployment</i></b></h4>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=FFFFFF"/>
@@ -68,7 +67,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-5865F2?logo=VSCode&logoColor=white"/>
 
   <br>
   <br>
