@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJinNo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://hyunjinno.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Blog-CC0000?logo=Jekyll&logoColor=white"/></a> <a href="https://hyunjinno.notion.site/3d1e9d32612740b8a5b7be16f5156d94" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a> <a href="https://www.figma.com/design/holMZu0fmxxQQOLJy3d0Wg/HyunJinNo's-R%C3%A9sum%C3%A9?node-id=0-1&p=f&t=WK5OJVTZA62yFb9Y-0" target="_blank"><img src="https://img.shields.io/badge/Résumé-F24E1E?logo=Figma&logoColor=white"/></a>
+<a href="https://hyunjinno.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Blog-CC0000?logo=Jekyll&logoColor=white"/></a> <a href="https://hyunjinno.notion.site/3d1e9d32612740b8a5b7be16f5156d94" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a> <a href="https://www.figma.com/design/holMZu0fmxxQQOLJy3d0Wg/HyunJinNo's-R%C3%A9sum%C3%A9?node-id=0-1&p=f&t=WK5OJVTZA62yFb9Y-0" target="_blank"><img src="https://img.shields.io/badge/Résumé-F24E1E?logo=Figma&logoColor=white"/></a> <a href="https://www.figma.com/slides/crcjf68QabCbR1LQC18bE1/HyunJinNo's-Portfolio?node-id=1-303&t=EH7GJPvEhjEdV8IJ-0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-F24E1E?logo=Figma&logoColor=white"/></a>
 
   <br />
 
