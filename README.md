@@ -10,12 +10,10 @@
 
   <h3>📅 Experiences</h3>
 
-| 기간                          | 활동 내역                               | 정보                       |
-| ----------------------------- | --------------------------------------- | -------------------------- |
-| 2018. 03 ~ 2024. 08.          | 중앙대학교 소프트웨어학부               | 졸업                       |
-| 2024. 06. 24 ~ 2024. 07. 05.  | 네이버 부스트캠프 웹・모바일 9기 베이직 | 웹 풀스택(JavaScript)      |
-| 2024. 07. 15. ~ 2024. 08. 09. | 네이버 부스트캠프 웹・모바일 9기 챌린지 | 웹 풀스택(JavaScript)      |
-| 2024. 08. 19. ~ 2024. 12. 06. | 네이버 부스트캠프 웹・모바일 9기 멤버십 | 웹 풀스택(JavaScript) - FE |
+| 기간                         | 활동 내역                        | 정보                       |
+| ---------------------------- | -------------------------------- | -------------------------- |
+| 2018. 03 ~ 2024. 08.         | 중앙대학교 소프트웨어학부        | 졸업                       |
+| 2024. 06. 24 ~ 2024. 12. 06. | 네이버 부스트캠프 웹・모바일 9기 | 웹 풀스택(JavaScript) - FE |
 
   <br/>
   <br/>
@@ -27,10 +25,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-%23593d88.svg?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-FF4154?logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=Framer&logoColor=white"/>
@@ -46,7 +44,6 @@
   <h4><b><i>Database</i></b></h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?logo=Firebase&logoColor=FFFFFF"/>
 
   <h4><b><i>Mobile</i></b></h4>
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=FFFFFF"/>
