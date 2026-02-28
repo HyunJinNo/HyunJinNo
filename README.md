@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white" />
 
   <h4><b><i>Collaboration Tools</i></b></h4>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
@@ -66,6 +67,12 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/>
 
+  <h4><b><i>IDEs / Editors</i></b></h4>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
+
+  <h4><b><i>Others</i></b></h4>
+  <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&labelColor=171717&logoColor=5cb85c" />
+  
   <br>
   <br>
   <br>
