@@ -8,71 +8,30 @@
 
   <h3>📅 Experiences</h3>
 
-| 기간                            | 활동 내역                            | 정보                       |
-| ------------------------------ |  ------------------------------------ | -------------------------- |
-| 2018. 03 ~ 2024. 08.           | 중앙대학교 소프트웨어학부            | 졸업                       |
-| 2024. 06. 24 ~ 2024. 12. 06.   | 네이버 부스트캠프 웹・모바일 9기     | 웹 풀스택(JavaScript) - FE |
-| 2025. 07. 01. ~  2025. 08. 31. | 한화시스템 ICT 부문 서비스 개발/운영 | 인턴                       |
+| 기간                          | 활동 내역                            | 정보                       |
+| ----------------------------- | ------------------------------------ | -------------------------- |
+| 2018. 03 ~ 2024. 08.          | 중앙대학교 소프트웨어학부            | 졸업                       |
+| 2024. 06. 24 ~ 2024. 12. 06.  | 네이버 부스트캠프 웹・모바일 9기     | 웹 풀스택(JavaScript) - FE |
+| 2025. 07. 01. ~ 2025. 08. 31. | 한화시스템 ICT 부문 서비스 개발/운영 | 인턴                       |
 
   <br/>
   <br/>
 
   <h3>📚 Skills</h3>
 
-  <h4><b><i>Front-end</i></b></h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-%23593d88.svg?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-FF4154?logo=zod&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=Framer&logoColor=white"/>
+| 분류                | 기술 스택                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Languages           | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=FFFFFF) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=Typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=FFFFFF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Development Tools   | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?logo=pnpm&logoColor=f69220) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Front-end           | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?logo=react&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-FF4154?logo=zod&logoColor=white) |
+| Back-end            | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FF4716?logo=typeorm&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Database            | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=FFFFFF) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=FFFFFF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Testing             | ![Vitest](https://img.shields.io/badge/-Vitest-252529?logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?&logo=playwright&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| DevOps              | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=FFFFFF)                                                                                                                                                                                                                                                                                         |
+| Collaboration Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| IDEs \| Editors     | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Others              | ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&labelColor=171717&logoColor=5cb85c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-  <h4><b><i>Back-end</i></b></h4>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-FF4716?logo=typeorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=FFFFFF"/>
-
-  <h4><b><i>Database</i></b></h4>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=FFFFFF"/>
-
-  <h4><b><i>Mobile</i></b></h4>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-
-  <h4><b><i>Deployment</i></b></h4>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=white"/>    
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white" />
-
-  <h4><b><i>Collaboration Tools</i></b></h4>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white"/>
-
-  <h4><b><i>IDEs / Editors</i></b></h4>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
-
-  <h4><b><i>Others</i></b></h4>
-  <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&labelColor=171717&logoColor=5cb85c" />
-  
   <br>
   <br>
   <br>
